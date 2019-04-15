@@ -171,7 +171,8 @@ header.masthead {
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
-  /* background-size: cover; */
+  background-color: gray
+  background-size: cover;
 }
 
 header.masthead .intro-text {
